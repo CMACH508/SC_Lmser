@@ -6,6 +6,7 @@ This repository holds the Python implementation of the method described in the p
 
 Qingjie Sheng, Shikui Tu*, Lei Xu*. "A Consistency Enhanced Deep Lmser Network for Face Sketch Synthesis". In Pacific Rim International Conference on Artificial Intelligence, pp. 127-138(2021). Springer, Cham.
 
+![](pic.png)
 ---
 ## Content
 1. [Requirements](#Requirements)
